@@ -4,10 +4,14 @@
 
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
+@import "components/screen-header.css";
+@import "components/user-component.css";
 
 @import "screens/login.css";
+@import "screens/friends.css";
 
 body {
+    color: #2E363E;
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: 400;
 }
